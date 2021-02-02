@@ -13,7 +13,17 @@
   </url>
   
   <url>
-    <loc>https://reachaaut.github.io/ReachAAUt-Site/resources/accounting/</loc>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/resources/podcasting/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/resources/blog/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/resources/tax-filing/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -24,11 +34,6 @@
   
   <url>
     <loc>https://reachaaut.github.io/ReachAAUt-Site/events/modern-hospital/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reachaaut.github.io/ReachAAUt-Site/resources/tax-filing/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -63,11 +68,6 @@
   </url>
   
   <url>
-    <loc>https://reachaaut.github.io/ReachAAUt-Site/resources/mergers/</loc>
-    <lastmod>2018-11-28T15:15:34+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://reachaaut.github.io/ReachAAUt-Site/resources/business-sales/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url>
@@ -79,6 +79,11 @@
   
   <url>
     <loc>https://reachaaut.github.io/ReachAAUt-Site/resources/business-advisory/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/resources/twitter/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url>
   
