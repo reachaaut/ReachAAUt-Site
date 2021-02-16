@@ -8,32 +8,95 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://reachaaut.github.io/ReachAAUt-Site/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>#reachAAUt - Webinar 1</title>
-      <link>https://reachaaut.github.io/ReachAAUt-Site/events/fall-plaza/</link>
+      <title>Upcoming - Webpage building</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/events/upcoming-webpage/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://reachaaut.github.io/ReachAAUt-Site/events/fall-plaza/</guid>
-      <description></description>
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/events/upcoming-webpage/</guid>
+      <description>For individuals, research projects or groups, using only open source software and services.
+Key facts Dates
+ 17.03.2021, 2 - 3.30pm 23.03.2021, 2 - 3.30pm 29.03.2021, 2 - 3.30pm  Time: 1.5h
+Place: Zoom
+Lecturer Daniel is an Associate Professor in Data Science &amp;amp; Innovation Economics at the Aalborg University Business School, where he leads the Data Science research track at the AI:Growth lab. His research is dedicated to the development and application of data-driven methods to map, understand, and predict technological change, and its causes and consequences for socioeconomic systems on various levels of aggregation.</description>
     </item>
     
     <item>
-      <title>Modern Hospital</title>
-      <link>https://reachaaut.github.io/ReachAAUt-Site/events/modern-hospital/</link>
+      <title>Discussion - Research Dissemination</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/events/wbn-discu1/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://reachaaut.github.io/ReachAAUt-Site/events/modern-hospital/</guid>
-      <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/events/wbn-discu1/</guid>
+      <description>In this video Antonia Scholkmann, Mathieu Jacomy and Roman Jurowetzki discuss and share their thoughts about research dissemination.
+  </description>
     </item>
     
     <item>
-      <title>Cargo Terminal</title>
-      <link>https://reachaaut.github.io/ReachAAUt-Site/events/cargo-terminal/</link>
+      <title>Discussion - Research Dissemination</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/events/wbn-discu2/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://reachaaut.github.io/ReachAAUt-Site/events/cargo-terminal/</guid>
-      <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/events/wbn-discu2/</guid>
+      <description>In this video Michael S Dahl, Massimo Pizzol and Daniele Dell´Aglioi discuss the topic research dissemination where they will share their thoughts and experiences.
+  </description>
+    </item>
+    
+    <item>
+      <title>How to use Blog for Research Dissemination</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/events/webinar-blog/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/events/webinar-blog/</guid>
+      <description>Mathieu Jacomy is the creator of Gephi (but not lead developer) and currently PhD Fellow at TANTLAB. In this video he will share his experience with blogging and the creation of one of the most popular network analysis packages. Here he will present his blog.
+  </description>
+    </item>
+    
+    <item>
+      <title>How to use podcast for Research Dissemination</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/events/webinar-podcast/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/events/webinar-podcast/</guid>
+      <description>In this video the associate professor at the Business School Roman Jurowetzki talks about how to use podcast for your research dissemination. He tells about how he has turned a Corona teaching project into a real podcast on innovation studies called InnoTalks.
+  </description>
+    </item>
+    
+    <item>
+      <title>How to use Social Medias for Research Dissemination</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/events/webinar-some/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/events/webinar-some/</guid>
+      <description>In this video Massimo Pizzol presents how you can use social medias for research dissemination. Massimo is associate proffesor at the Department of Planning at Aalborg University. In this video he shares his experience with using LinkedIn and Twitter for communicating his research. He will also show how you easily can start blogging about your research. In the end of the video he gives you his does and don&amp;rsquo;ts about using social media for research dissemination.</description>
+    </item>
+    
+    <item>
+      <title>How to use Twitter for Research Dissemination</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/events/webinar-twitter/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/events/webinar-twitter/</guid>
+      <description>Antonia Scholkmann is associate professor at the department of culture and learning at Aalborg University. In this video she shares her experience about her experience with Twitter where she engages and connects with her community and other stakeholders.
+  </description>
+    </item>
+    
+    <item>
+      <title>How to use Websites for Research Dissemination</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/events/webinar-website/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/events/webinar-website/</guid>
+      <description>In this video you be presented for Michael S Dahl who is professor in Strategy and Organisation at Aalborg University. He will share his experience with Github-pages as an elegant solution for academic webpages as well as his outreach on Twitter. He will present his webpage.
+  </description>
+    </item>
+    
+    <item>
+      <title>How to use Websites for Research Dissemination</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/events/webinar-website2/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/events/webinar-website2/</guid>
+      <description>Daniele Dell´Aglioi tells in this video about his experiences with using websites for research dissemination. He is an assistant professor in the Data and Web technologies at the Department of Computer Science at Aalborg University. In this video he talks about communicating and documenting his research on his website, and how you can build up a website for sharing your research. He presents his website.
+  </description>
     </item>
     
   </channel>
