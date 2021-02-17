@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 30 Jun 2020 12:37:23 +0700</lastBuildDate><atom:link href="https://reachaaut.github.io/ReachAAUt-Site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Petar Popovski</title>
-      <link>https://reachaaut.github.io/ReachAAUt-Site/cases/petar-popovski/</link>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/podcast/petar-popovski/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://reachaaut.github.io/ReachAAUt-Site/cases/petar-popovski/</guid>
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/podcast/petar-popovski/</guid>
       <description>Petar Popovski uses Blogs on Medium and Linkedin to shape the discussion about 5G.</description>
     </item>
     
@@ -50,11 +50,20 @@ Lecturer Daniel is an Associate Professor in Data Science &amp;amp; Innovation E
     
     <item>
       <title>Jacob Brix</title>
-      <link>https://reachaaut.github.io/ReachAAUt-Site/cases/jacob_brix/</link>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/podcast/jacob_brix/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://reachaaut.github.io/ReachAAUt-Site/cases/jacob_brix/</guid>
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/podcast/jacob_brix/</guid>
       <description>Jacob Brix uses LinkedIn and Twitter to promote his research and shape discussion around organisational learning.</description>
+    </item>
+    
+    <item>
+      <title>Olga Gurova</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/podcast/olga-gurova/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/podcast/olga-gurova/</guid>
+      <description>Olga Gurova explains how she uses her webpage as her business card</description>
     </item>
     
     <item>
@@ -142,7 +151,7 @@ Lecturer Daniel is an Associate Professor in Data Science &amp;amp; Innovation E
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>https://reachaaut.github.io/ReachAAUt-Site/about/</guid>
-      <description>#ReachAAUt is a project at Aalborg University, Denmark running since April 2020. We started this project because there exists much important and valuable research and scholars find it often difficult to communicate their research outside established to a broader audience. As researchers we know the importance of knowledge sharing which is why we have created #ReachAAUt. With this project we want to help other researchers ensure effective research dissemination. In practice we don&amp;rsquo;t want to reinvent the wheel but to identify and promote good practice already in use.</description>
+      <description></description>
     </item>
     
     <item>

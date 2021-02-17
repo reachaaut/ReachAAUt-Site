@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast on #ReachAAUt</title>
+    <link>https://reachaaut.github.io/ReachAAUt-Site/podcast/</link>
+    <description>Recent content in Podcast on #ReachAAUt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://reachaaut.github.io/ReachAAUt-Site/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Petar Popovski</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/podcast/petar-popovski/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/podcast/petar-popovski/</guid>
+      <description>Petar Popovski uses Blogs on Medium and Linkedin to shape the discussion about 5G.</description>
+    </item>
+    
+    <item>
+      <title>Jacob Brix</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/podcast/jacob_brix/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/podcast/jacob_brix/</guid>
+      <description>Jacob Brix uses LinkedIn and Twitter to promote his research and shape discussion around organisational learning.</description>
+    </item>
+    
+    <item>
+      <title>Olga Gurova</title>
+      <link>https://reachaaut.github.io/ReachAAUt-Site/podcast/olga-gurova/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://reachaaut.github.io/ReachAAUt-Site/podcast/olga-gurova/</guid>
+      <description>Olga Gurova explains how she uses her webpage as her business card</description>
+    </item>
+    
+  </channel>
+</rss>
